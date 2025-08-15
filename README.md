@@ -27,4 +27,4 @@ The SOC environment was built to address gaps in network visibility ,log central
 This SOC simulation revealed real security weakness and provided a clear path towords building a robust, real-word SOC capable of detecting and morning advanced threats.
 
 ## Report.
-[Report](
+[Report](https://github.com/osehale/BazTech-Inc.-SOC-Implementation-and-Threat-Simulation./blob/main/Philip%20U%20fuah_SOC_Project.Pdf)
