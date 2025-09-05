@@ -28,3 +28,4 @@ This SOC simulation revealed real security weakness and provided a clear path to
 
 ## Report.
 [Report](https://github.com/osehale/BazTech-Inc.-SOC-Implementation-and-Threat-Simulation./blob/main/Philip%20U%20fuah_SOC_Project.Pdf)
+
